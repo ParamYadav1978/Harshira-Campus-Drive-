@@ -20,3 +20,24 @@ The first coefficient (a0) is the constant term, which is the “secret” you a
 
 This method  works for any set of k points that define a unique polynomial of degree k-1.
 
+OUTPUT :
+node solver.js
+Using input file: sample.json
+Polynomial coefficients (from constant term up):
+a0 = 3
+a1 = 0
+a2 = 1
+
+Secret (constant term) is: 3
+------------------------------------------
+Using input file: testcase2.json
+Polynomial coefficients (from constant term up):
+a0 = 79836263974648.25
+a1 = 92534348875520
+a2 = 234176747259428
+a3 = 147160079823729.6
+a4 = 105860038257394.4
+a5 = 129715447662281.33
+a6 = 205802168748489.34
+
+Secret (constant term) is: 79836263974648.25
